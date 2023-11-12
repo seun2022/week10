@@ -1,0 +1,5 @@
+﻿  Ryan.cpp
+C:\jsw\MidtermExam\Ryan\Ryan.cpp(90,8): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  yuhanCG.cpp
+  코드를 생성하고 있습니다...
+  Ryan.vcxproj -> C:\jsw\MidtermExam\x64\Debug\Ryan.exe
